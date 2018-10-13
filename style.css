@@ -1,0 +1,27 @@
+body{color:pink;}
+p.a
+{
+  color:orange;
+  font-size:35pt;
+  text-align:center;
+}
+p.b
+{
+  color:red;
+  font-size:28pt;
+  text-align:center;
+}
+h1.c
+{
+  color:black;
+  text-align:center;
+}
+h3.d
+{
+  color:black;
+  text-align:center;
+}
+img.h
+{
+  text-align:center;
+}
